@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  height: 100%;
+}
+
+body {
+  padding: 20px;
+  background: url(../img/background.jpg) fixed;
+  background-size:100% 100%;​
+}
+
+ul#menu {
+  margin-bottom: 30px;
+  text-align: right;
+}
+
+ul#time {
+  text-align: right;
+}
+
+ul#menu li {
+  display: inline-block;
+}
